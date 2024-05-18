@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\java\Advance Java Mock\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1785368347.index
+4163379924.index
+124279996.index
+4263251527.index
+615637560.index
+490024143.index
